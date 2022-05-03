@@ -1,6 +1,7 @@
 ### Member Adding Bot
 Telegram Kanal,Grup User Elave Edmek Ucun Program!
-<img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg" width="300" height="250">
+
+<img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg" width="1000" height="250">
 </p>
 
 
