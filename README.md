@@ -1,7 +1,7 @@
 ### Member Adding Bot
 Telegram Kanal,Grup User Elave Edmek Ucun Program!
 
-</details>[DegGixM]("https://t.me/DegGixM") 
+</details>[DegGixM]("https://t.me/DegGixM");
 
 <img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg" width="750" height="750">
 </p>
