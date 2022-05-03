@@ -11,7 +11,7 @@ DegGixM Owner. [MUCVE](https;//t.me/MUCVE_M)
      
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="1000" height="200">
+  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="1000" height="210">
 </p>
 
 ## • API Quraşdırma
