@@ -1,31 +1,21 @@
+### Member Adding Bot
+Telegram Kanal,Grup User Elave Edmek Ucun Program!
+<img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg"
+
+     [DegGixM]("https://t.me/DegGixM") 
+     
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="470" height="150">
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/th3unkn0n/TeleGram-Group-Scraper">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
-  </a>
-</p>
-<p align="center">
-  Telegram Group Scrapper
-</p>
-<p align="center">
-</p>
-
----
-
-## • API Setup
-* Go to http://my.telegram.org  and log in.
-* Click on API development tools and fill the required fields.
-* put app name you want & select other in platform Example :
-* copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
-
-## • How To Install and Use
+## • API Quraşdırma
+* http://my.telegram.org saytına daxil olun və daxil olun.
+* API inkişaf alətlərinə klikləyin və tələb olunan sahələri doldurun.
+* istədiyiniz proqram adını qoyun və platformada digərini seçin Misal:
+* Tətbiq yarat düyməsini kliklədikdən sonra "api_id" və "api_hash"-ı kopyalayın (setup.py-də istifadə olunacaq)
+* 
+## •Necə Quraşdırılır və İstifadə Edilir
 
 `$ pkg install -y git python`
 
@@ -33,23 +23,23 @@
 
 `$ cd TeleGram-Scraper`
 
-* Install requierments
+* Quraşdırma tələbləri
 
 `$ python3 setup.py -i`
 
-* setup configration file ( apiID, apiHASH )
+* Quraşdırm Konfiqurasiya Faylı (api ID, api HASH)
 
 `$ python3 setup.py -c`
 
-* To Genrate User Data
+* İstifadəçi Məlumatlarını Maratmaq üçün
 
 `$ python3 scraper.py`
 
-* ( members.csv is default if you changed name use it )
-* Send Bulk sms To Collected Data 
+* (adı dəyişsəniz, member.csv defoltdur, ondan istifadə edin)
+* Toplanmış məlumatlara toplu sms göndərin
 
 `$ python3 smsbot.py members.csv`
 
-* Update Tool
-
+* Yeniləmə Aləti
+* 
 `$ python3 setup.py -u`
