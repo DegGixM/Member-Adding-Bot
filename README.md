@@ -3,7 +3,7 @@ Telegram Kanal,Grup User Elave Edmek Ucun Program!
 
 
 
-<img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg" width="550" height="400">
+<img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg" width="550" height="450">
 </p>
 
 DegGixM Resmi Kanal'i Etrafli Melumat Ucun Resmi Kanali Bax.[DegGixM](https://t.me/DegGixM)
@@ -11,7 +11,7 @@ DegGixM Owner. [MUCVE](https;//t.me/MUCVE_M)
      
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="1000" height="150">
+  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="1000" height="200">
 </p>
 
 ## • API Quraşdırma
