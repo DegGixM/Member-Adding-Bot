@@ -6,7 +6,7 @@ Telegram Kanal,Grup User Elave Edmek Ucun Program!
 <img src="https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg" width="750" height="750">
 </p>
 
-[DegGixM](https://t.me/DegGixM)
+DegGixM Resmi Kanal'i Etrafli Melumat Ucun Resmi Kanali Bax.[DegGixM](https://t.me/DegGixM)
      
      
 
